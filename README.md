@@ -42,6 +42,7 @@ El tipo float en Python se utiliza para representar y almacenar números reales,
 ---
 
 Los diccionarios usan pares "llave: valor" para búsquedas instantáneas (ej. inventario["pocion"]). Aquí también aprendes a usar estructuras anidadas (diccionarios dentro de diccionarios) para crear sistemas complejos.
+
 ---
 
 Generadores (yield)
