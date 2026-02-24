@@ -22,3 +22,5 @@ os: Sirve para hablar con el Sistema Operativo (carpetas, archivos, procesos del
 sys: Sirve para hablar con el Entorno de Python (parámetros del intérprete, rutas de librerías).
 
 Nota: Al ser un módulo nativo, no necesitas instalar nada. Solo escribe import sys al inicio de tu archivo y listo.
+
+---
